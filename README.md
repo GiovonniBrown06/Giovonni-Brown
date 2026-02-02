@@ -7,6 +7,7 @@
 
 ## 📜 Certifications
 Comptia Security+ (In Progress)
+
 CompTIA Network+ (In Progress)
 
 ## 🧠 Technical Skills
@@ -17,7 +18,6 @@ CompTIA Network+ (In Progress)
 - Networking Fundamentals (TCP/IP, DNS, DHCP)
 - Virtualization (VMware / VirtualBox)
 
-- ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-red)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
