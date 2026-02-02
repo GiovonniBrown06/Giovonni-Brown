@@ -41,20 +41,3 @@ Planning to transfer to **Florida International University** for a Bachelor's in
 <a href="https://linkedin.com/in/giovonni-brown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giovonni-brown" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/realgiobrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="realgiobrn" height="30" width="40" /></a>
 </p>
-
-
-
-# Initialize repo locally (if not already)
-git init
-
-# Add README
-git add README.md
-
-# Commit
-git commit -m "Add profile README"
-
-# Add remote (replace USERNAME)
-git remote add origin https://github.com/USERNAME/USERNAME.git
-
-# Push
-git push -u origin main
