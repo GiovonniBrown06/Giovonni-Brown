@@ -44,9 +44,17 @@ Planning to transfer to **Florida International University** for a Bachelor's in
 
 
 
-git clone https://github.com/Giovonni-Brown/Giovonni-Brown.git
-cd Giovonni-Brown
-# Add or edit README.md
+# Initialize repo locally (if not already)
+git init
+
+# Add README
 git add README.md
-git commit -m "Update profile README"
-git push
+
+# Commit
+git commit -m "Add profile README"
+
+# Add remote (replace USERNAME)
+git remote add origin https://github.com/USERNAME/USERNAME.git
+
+# Push
+git push -u origin main
