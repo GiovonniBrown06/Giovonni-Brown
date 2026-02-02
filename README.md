@@ -18,6 +18,14 @@ CompTIA Network+ (In Progress)
 - Networking Fundamentals (TCP/IP, DNS, DHCP)
 - Virtualization (VMware / VirtualBox)
 
+- ## 🎓 Education
+**Miami Dade College** – Associate of Science (A.S.) in Computer Information Systems  
+*Expected Graduation:* 2026  
+
+Planning to transfer to **Florida International University** for a Bachelor's in IT
+
+![Miami Dade College](https://img.shields.io/badge/Miami%20Dade%20College-A.S.%20IT-blue)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
