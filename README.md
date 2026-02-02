@@ -41,3 +41,12 @@ Planning to transfer to **Florida International University** for a Bachelor's in
 <a href="https://linkedin.com/in/giovonni-brown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giovonni-brown" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/realgiobrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="realgiobrn" height="30" width="40" /></a>
 </p>
+
+
+
+git clone https://github.com/Giovonni-Brown/Giovonni-Brown.git
+cd Giovonni-Brown
+# Add or edit README.md
+git add README.md
+git commit -m "Update profile README"
+git push
