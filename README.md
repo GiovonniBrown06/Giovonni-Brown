@@ -18,6 +18,15 @@ CompTIA Network+ (In Progress)
 - Networking Fundamentals (TCP/IP, DNS, DHCP)
 - Virtualization (VMware / VirtualBox)
 
+- ## 🧪 Projects
+- **Windows Server Active Directory Lab** – Created users, enforced password policies, automated tasks with PowerShell  
+- **Homelab Environment** – Practiced sysadmin skills with VMs and networking
+
+---
+
+## 🎯 Career Goal
+Entry-level IT support / system administration role applying practical IT skills from labs and coursework
+
 - ## 🎓 Education
 **Miami Dade College** – Associate of Science (A.S.) in Computer Information Systems  
 *Expected Graduation:* 2026  
